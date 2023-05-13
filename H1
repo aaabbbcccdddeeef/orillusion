@@ -1,0 +1,5 @@
+<script type="module">  
+
+    import { Engine3D, Camera3D } from "https://unpkg.com/@orillusion/core/dist/orillusion.es.js" 
+
+</script>
