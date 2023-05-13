@@ -1,0 +1,19 @@
+<!-- Define the name or address of ES Module -->  
+
+<script  type="importmap">  
+
+{  
+
+    "imports": { "@orillusion/core": "https://unpkg.com/@orillusion/core/dist/orillusion.es.js" }  
+
+}  
+
+</script>  
+
+<!-- Customerized names could be imported -->  
+
+<script  type="module">  
+
+    import { Engine3D, Camera3D } from "@orillusion/core"
+
+</script>
